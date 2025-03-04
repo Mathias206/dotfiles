@@ -1,0 +1,1 @@
+/home/mathias/.config/nvim/init.lua
